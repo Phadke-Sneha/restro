@@ -1,5 +1,7 @@
-NEW file created
-changes added
+# Restaurant Menu Application
 
-now edited from git hub
+Food Menu with Details
 
+This is tech food company which displays food items with price
+
+edited 
